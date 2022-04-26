@@ -17,9 +17,10 @@ git log --oneline
 git remote add origin https://github.com/mmillos/PruebaGitHub.git
 git push -u origin master
 #
-git add
 
 git reset --hard id
-git reflex
+git revert
+
+:q
 
 
