@@ -1,0 +1,25 @@
+#Cambiar la rama de nombre para un proyecto
+git branch -m master main
+#Cambiar el nombre de la rama master para todos los repositoriso
+git config --global init.defaultBranch mais
+#Iniciar git
+git init
+#Ver el nombre y el email del usuario de git
+git config user.name
+git config user.email
+#Añadir cambios
+git add .
+#Crear el Commit
+git commit -m 'ComentarioCommit'
+#Ver el listado de los Commit
+git log --oneline
+#Enlazar el repositorio con el de la nuve
+git remote add origin https://github.com/mmillos/PruebaGitHub.git
+git push -u origin master
+#
+git add
+
+git reset --hard id
+git reflex
+
+
